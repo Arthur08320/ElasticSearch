@@ -3,6 +3,6 @@
     "author": "Arthur",
 	"language": "zh-hans",
 	"plugins": [
-		"code"
+		"copy-code-button"
 	]
 }

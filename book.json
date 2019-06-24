@@ -1,8 +1,8 @@
 {
 	"title": "Arthur's Blog",
     "author": "Arthur",
-	"language": "zh",
+	"language": "zh-hans",
 	"plugins": [
-		"splitter"
+		"code"
 	]
 }
